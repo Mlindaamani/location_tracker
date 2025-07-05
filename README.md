@@ -194,6 +194,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, open an issue on GitHub or contact [your-email@example.com](mailto:mlindaadolf@gmail.com).
+For questions or feedback, open an issue on GitHub or contact [mlindaadolf@gmail.com](mailto:mlindaadolf@gmail.com).
 
 ---
